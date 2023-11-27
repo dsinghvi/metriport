@@ -1,1 +1,4 @@
 export: "@fern/fhir"
+
+# See imported definition file by visiting the link below:
+# https://raw.githubusercontent.com/fern-api/fern/main/fern/apis/fhir/definition/__package__.yml
